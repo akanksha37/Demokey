@@ -7,5 +7,5 @@
 echo 'Hello World'
 echo "$Variable"
 echo "$committed"
-
+echo "This is the second day"
 ````
